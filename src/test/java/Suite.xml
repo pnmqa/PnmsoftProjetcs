@@ -1,0 +1,7 @@
+<suite name="All windows tests suite" >
+    <test name="Login+Main Windows" >
+        <classes>
+            <class name="WillBeRunningTest" />
+        </classes>
+    </test>
+</suite>
